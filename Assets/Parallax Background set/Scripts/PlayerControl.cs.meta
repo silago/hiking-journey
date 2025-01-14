@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b7440b0f43108d448a56ce3a3bb82a77
+timeCreated: 1426187250
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60400
+  packageName: Parallax Background set
+  packageVersion: 1.0
+  assetPath: Assets/Parallax Background set/Scripts/PlayerControl.cs
+  uploadId: 114178

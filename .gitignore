@@ -1,0 +1,72 @@
+# =============== #
+#
+# Unity generated #
+# =============== #
+/Temp/
+/Obj/
+/UnityGenerated/
+/Library/
+/UserSettings/Layouts/
+
+# ============== #
+#      TK2D      #
+# ============== #
+Assets/-tk2d
+*-tk2d.asset*
+Assets/Resources/tk2d/*
+/*.apk
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+_ReSharper.*/
+# ===================================#
+# Visual Studio 2015 cache directory #
+# ===================================#
+/.vs/
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+#-------
+Reference/
+/ios*
+Assets/-tk2d.asset
+/Assets/-tk2d.asset
+/Assets/Resources/UserConfig.asset
+/Assets/Resources/UserConfig.asset.meta
+/Export
+/.idea
+/Library
+/Builds
+/Assets/Plugins/Editor/JetBrains
+/Assets/Plugins/Editor/JetBrains.meta
+/.idea/.idea.codedynamycs/.idea/contentModel.xml
+Logs
+obj
+Downloads
+*.blend
+*.max
+Builds
+*.blend
+*.unitypackage
+.vscode
+/UserSettings
+Recordings/
