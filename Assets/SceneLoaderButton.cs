@@ -1,13 +1,14 @@
-using Unity.VisualScripting;
+using System;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class SceneLoaderButton : MonoBehaviour
 {
-    [SerializeField] private string sceneName;
+    [SerializeField] MainActivityBridge mainActivityBridge;
+    [SerializeField] private string questName;
 
     [SerializeField] private Button button;
+    public event Action<string> questButtonPressed = w => { }; 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -16,12 +17,14 @@ public class SceneLoaderButton : MonoBehaviour
 
     private void OnButtonClick()
     {
-        SceneManager.LoadScene(sceneName);
+        questButtonPressed.Invoke(questName);
     }
-
+    
     // Update is called once per frame
     void Update()
     {
         
     }
 }
+
+

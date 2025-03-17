@@ -3,14 +3,14 @@ package com.silagonevermind.hikingjourney
 import android.content.Intent
 import android.os.Bundle
 import android.util.Log
-import androidx.health.connect.client.HealthConnectClient
-import androidx.health.connect.client.PermissionController
-import androidx.health.connect.client.permission.HealthPermission
-import androidx.health.connect.client.records.StepsRecord
-import androidx.health.connect.client.request.ReadRecordsRequest
+//import androidx.health.connect.client.HealthConnectClient
+//import androidx.health.connect.client.PermissionController
+//import androidx.health.connect.client.permission.HealthPermission
+//import androidx.health.connect.client.records.StepsRecord
+//import androidx.health.connect.client.request.ReadRecordsRequest
 import androidx.core.app.ActivityCompat
 
-import androidx.health.connect.client.time.TimeRangeFilter
+//import androidx.health.connect.client.time.TimeRangeFilter
 import java.time.Instant
 import com.unity3d.player.UnityPlayerActivity;
 import com.unity3d.player.UnityPlayer;
@@ -21,10 +21,12 @@ import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.launch
 
 class CustomUnityActivity : UnityPlayerActivity() {
+        /*
     private var healthConnectClient: HealthConnectClient? = null
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
+    
         var providerPackageName = "com.google.android.apps.healthdata";
         var context = this.applicationContext; 
 
@@ -55,7 +57,9 @@ class CustomUnityActivity : UnityPlayerActivity() {
         // Prints debug message to Logcat
         Log.d("OverrideActivity", "onCreate called!")
     }
+        */
 
+    /*
     override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent) {
         Log.d("Health", requestCode.toString());
         Log.d("Health", resultCode.toString());
@@ -63,6 +67,7 @@ class CustomUnityActivity : UnityPlayerActivity() {
 
         super.onActivityResult(requestCode, resultCode, data)
     }
+     
 
     override fun onRequestPermissionsResult(
         requestCode: Int,
@@ -86,10 +91,6 @@ class CustomUnityActivity : UnityPlayerActivity() {
             applicationContext, list
         )
 
-        
-        //permsIntent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
-        //this.startActivityForResult(permsIntent, 1)
-
         ActivityCompat.requestPermissions(
             this,
             arrayOf(HealthPermission.getReadPermission(StepsRecord::class).toString()),
@@ -105,8 +106,6 @@ class CustomUnityActivity : UnityPlayerActivity() {
     }
 
     suspend fun susGetStepsCount(from : String, to : String): Long {
-        // Создаем запрос для получения записей шагов
-
         Log.d("Health","start stepscount");
         var startTime = Instant.parse(from);
         var endTime = Instant.parse(to);
@@ -131,6 +130,7 @@ class CustomUnityActivity : UnityPlayerActivity() {
 
         return result;
     }
+    */
 
     companion object {
         private const val TAG = "CustomUnityActivity"

@@ -6,10 +6,11 @@
     <uses-permission android:name="android.permission.health.READ_HEART_RATE"/>
     <uses-permission android:name="android.permission.health.WRITE_HEART_RATE"/>
     <uses-permission android:name="android.permission.health.READ_STEPS"/>
+    <uses-permission android:name="android.permission.health.READ_DISTANCE"/>
+
     <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" />
     <uses-permission android:name="android.permission.health.WRITE_STEPS"/>
     <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
-
 
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE_HEALTH"/>
@@ -18,12 +19,15 @@
     <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"/>
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
 
+    <uses-permission android:name="android.permission.BODY_SENSORS" />
     
     <application>
+        <!--
         <service android:name="com.nevermind.healthconnectbridge.PedometerService"
                  android:foregroundServiceType="health"
                  android:enabled="true"
                  android:exported="true"/>
+        -->
         
         <!-- For supported versions through Android 13, create an activity to show the rationale
      of Health Connect permissions once users click the privacy policy link. -->

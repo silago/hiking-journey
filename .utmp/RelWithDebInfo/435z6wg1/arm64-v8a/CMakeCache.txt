@@ -241,21 +241,6 @@ Unity_IS_TOP_LEVEL:STATIC=ON
 //Value Computed by CMake
 Unity_SOURCE_DIR:STATIC=E:/work/Hiking Journey/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp
 
-//The directory containing a CMake configuration file for game-activity.
-game-activity_DIR:PATH=E:/work/Hiking Journey/.utmp/RelWithDebInfo/435z6wg1/prefab/arm64-v8a/prefab/lib/aarch64-linux-android/cmake/game-activity
-
-//Value Computed by CMake
-game_BINARY_DIR:STATIC=E:/work/Hiking Journey/.utmp/RelWithDebInfo/435z6wg1/arm64-v8a/GameActivity
-
-//Value Computed by CMake
-game_IS_TOP_LEVEL:STATIC=OFF
-
-//Dependencies for the target
-game_LIB_DEPENDS:STATIC=general;android;general;game-activity::game-activity_static;general;log;
-
-//Value Computed by CMake
-game_SOURCE_DIR:STATIC=E:/work/Hiking Journey/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity
-
 //The directory containing a CMake configuration file for games-frame-pacing.
 games-frame-pacing_DIR:PATH=E:/work/Hiking Journey/.utmp/RelWithDebInfo/435z6wg1/prefab/arm64-v8a/prefab/lib/aarch64-linux-android/cmake/games-frame-pacing
 

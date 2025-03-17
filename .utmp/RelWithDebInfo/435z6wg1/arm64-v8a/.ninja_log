@@ -1,14 +1,5 @@
 # ninja log v5
-610	3875	7583089494254587	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	79dc4653f81816e0
-3	261	7584920782887214	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	8b12d46ab609c69f
-684	3440	7583089490004532	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	b78809ecd9c4e9ad
-589	3379	7583089489258128	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	c4537737af82936f
-262	600	7584920786257321	E:/work/Hiking Journey/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/435z6wg1/obj/arm64-v8a/libswappywrapper.so	7511a50c3ddf5945
-630	3387	7583089489263232	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	3098e41c0e3725
-572	3383	7583089489248033	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	748ece1499eeb9c2
-14	3494	7583089490549340	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	9a315ced0ed0e381
-663	3392	7583089489438563	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	fc6b6d1d9adc8d5
-648	3688	7583089492502155	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	c866d945502ee2cc
-3875	4639	7583089501899399	E:/work/Hiking Journey/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/435z6wg1/obj/arm64-v8a/libgame.so	303b722f0b2f1312
-2	151	7584947936633806	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	8b12d46ab609c69f
-151	331	7584947938356518	E:/work/Hiking Journey/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/435z6wg1/obj/arm64-v8a/libswappywrapper.so	7511a50c3ddf5945
+8	943	7635887598111789	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	8b12d46ab609c69f
+944	1775	7635887606381999	E:/work/Hiking Journey/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/435z6wg1/obj/arm64-v8a/libswappywrapper.so	7511a50c3ddf5945
+6	356	7635890725504519	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	8b12d46ab609c69f
+357	535	7635890727251349	E:/work/Hiking Journey/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/435z6wg1/obj/arm64-v8a/libswappywrapper.so	7511a50c3ddf5945
