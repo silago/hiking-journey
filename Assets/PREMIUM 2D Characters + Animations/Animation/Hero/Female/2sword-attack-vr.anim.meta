@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 836a6838b331e440b98a56d18f609f27
+timeCreated: 1461142804
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/2sword-attack-vr.anim
+  uploadId: 481882

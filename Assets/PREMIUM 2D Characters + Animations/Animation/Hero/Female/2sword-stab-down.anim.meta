@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d91dfd0be73084fc5aaa4e90b20d87fc
+timeCreated: 1470630915
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/2sword-stab-down.anim
+  uploadId: 481882

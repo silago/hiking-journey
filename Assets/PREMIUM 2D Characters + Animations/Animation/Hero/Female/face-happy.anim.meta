@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fc3584b7fc22c40bdb44e38e1ef2fd27
+timeCreated: 1470214132
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/face-happy.anim
+  uploadId: 481882

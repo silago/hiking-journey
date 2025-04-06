@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 217e9fc0ce32a4b9eac12a86e4c0364e
+timeCreated: 1460725580
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/sleeping
+    1.anim
+  uploadId: 481882

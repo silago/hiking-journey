@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 55a404f1f00e24374bdf2c038d6d383c
+timeCreated: 1470635861
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/1hand-attack-stab-up.anim
+  uploadId: 481882

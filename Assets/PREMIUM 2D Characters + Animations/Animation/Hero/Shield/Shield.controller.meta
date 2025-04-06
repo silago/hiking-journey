@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c015a3041d15a4ae7a02f9df8923c4fe
+timeCreated: 1474627523
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: shield
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Shield/Shield.controller
+  uploadId: 481882

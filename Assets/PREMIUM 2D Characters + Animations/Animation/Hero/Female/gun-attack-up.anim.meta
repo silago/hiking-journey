@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 792ad5ba46b4e4226bd05948e6d23299
+timeCreated: 1465809762
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/gun-attack-up.anim
+  uploadId: 481882

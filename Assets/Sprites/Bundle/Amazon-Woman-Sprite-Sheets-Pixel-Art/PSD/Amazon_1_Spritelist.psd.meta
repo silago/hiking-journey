@@ -1,0 +1,1868 @@
+fileFormatVersion: 2
+guid: e92c624275f86754687b0ef707e0f89b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7282346014534823151
+    second: Amazon_1_Spritelist_0
+  - first:
+      213: -8402848475304503953
+    second: Amazon_1_Spritelist_1
+  - first:
+      213: -2836034105230647542
+    second: Amazon_1_Spritelist_2
+  - first:
+      213: 3120968208564312080
+    second: Amazon_1_Spritelist_3
+  - first:
+      213: 1019966995601282119
+    second: Amazon_1_Spritelist_4
+  - first:
+      213: -3795961016896977500
+    second: Amazon_1_Spritelist_5
+  - first:
+      213: -4752071731878232779
+    second: Amazon_1_Spritelist_6
+  - first:
+      213: -2547719402494745532
+    second: Amazon_1_Spritelist_7
+  - first:
+      213: 3438632545111998815
+    second: Amazon_1_Spritelist_8
+  - first:
+      213: 2260143268455379404
+    second: Amazon_1_Spritelist_9
+  - first:
+      213: 8931661220420460734
+    second: Amazon_1_Spritelist_10
+  - first:
+      213: -7100168989958685050
+    second: Amazon_1_Spritelist_11
+  - first:
+      213: 3368688592604989812
+    second: Amazon_1_Spritelist_12
+  - first:
+      213: 7846669193582082749
+    second: Amazon_1_Spritelist_13
+  - first:
+      213: 3563191038388699047
+    second: Amazon_1_Spritelist_14
+  - first:
+      213: 752032037507717215
+    second: Amazon_1_Spritelist_15
+  - first:
+      213: -3972911956204135231
+    second: Amazon_1_Spritelist_16
+  - first:
+      213: 6511157743377973672
+    second: Amazon_1_Spritelist_17
+  - first:
+      213: -3900607924971369358
+    second: Amazon_1_Spritelist_18
+  - first:
+      213: -1301182483203151504
+    second: Amazon_1_Spritelist_19
+  - first:
+      213: 1219232355152016086
+    second: Amazon_1_Spritelist_20
+  - first:
+      213: -7507768507418687541
+    second: Amazon_1_Spritelist_21
+  - first:
+      213: -4579807401210947597
+    second: Amazon_1_Spritelist_22
+  - first:
+      213: -9094492588513747853
+    second: Amazon_1_Spritelist_23
+  - first:
+      213: -372894575227396347
+    second: Amazon_1_Spritelist_24
+  - first:
+      213: 6869982898680262573
+    second: Amazon_1_Spritelist_25
+  - first:
+      213: 6511931578237964955
+    second: Amazon_1_Spritelist_26
+  - first:
+      213: -6617643698482364782
+    second: Amazon_1_Spritelist_27
+  - first:
+      213: 6963703288750207888
+    second: Amazon_1_Spritelist_28
+  - first:
+      213: 6403474721758756249
+    second: Amazon_1_Spritelist_29
+  - first:
+      213: 3142657168381540400
+    second: Amazon_1_Spritelist_30
+  - first:
+      213: 6188258906525544161
+    second: Amazon_1_Spritelist_31
+  - first:
+      213: -691006821302340668
+    second: Amazon_1_Spritelist_32
+  - first:
+      213: -8569581953825096414
+    second: Amazon_1_Spritelist_33
+  - first:
+      213: -1921948829724276299
+    second: Amazon_1_Spritelist_34
+  - first:
+      213: 6004183752332587976
+    second: Amazon_1_Spritelist_35
+  - first:
+      213: -6025444077830254543
+    second: Amazon_1_Spritelist_36
+  - first:
+      213: 2593703882531405039
+    second: Amazon_1_Spritelist_37
+  - first:
+      213: -6394963508771901316
+    second: Amazon_1_Spritelist_38
+  - first:
+      213: -2756835449083143652
+    second: Amazon_1_Spritelist_39
+  - first:
+      213: 7956641186656452716
+    second: Amazon_1_Spritelist_40
+  - first:
+      213: 8598051547120322759
+    second: Amazon_1_Spritelist_41
+  - first:
+      213: -2689612533147239442
+    second: Amazon_1_Spritelist_42
+  - first:
+      213: -6450640076762818649
+    second: Amazon_1_Spritelist_43
+  - first:
+      213: 1647528546185411848
+    second: Amazon_1_Spritelist_44
+  - first:
+      213: -3968535950220993082
+    second: Amazon_1_Spritelist_45
+  - first:
+      213: -5480159214301827083
+    second: Amazon_1_Spritelist_46
+  - first:
+      213: 4311488140599085486
+    second: Amazon_1_Spritelist_47
+  - first:
+      213: -585726225077972356
+    second: Amazon_1_Spritelist_48
+  - first:
+      213: 4978966418411575631
+    second: Amazon_1_Spritelist_49
+  - first:
+      213: 1468602603901421440
+    second: Amazon_1_Spritelist_50
+  - first:
+      213: 3117053059530187702
+    second: Amazon_1_Spritelist_51
+  - first:
+      213: -2941411987688003307
+    second: Amazon_1_Spritelist_52
+  - first:
+      213: 4938628748547397370
+    second: Amazon_1_Spritelist_53
+  - first:
+      213: 583209923769414178
+    second: Amazon_1_Spritelist_54
+  - first:
+      213: -5549645497739732936
+    second: Amazon_1_Spritelist_55
+  - first:
+      213: -8704082292562818116
+    second: Amazon_1_Spritelist_56
+  - first:
+      213: 5937036524520308293
+    second: Amazon_1_Spritelist_57
+  - first:
+      213: 5826999589650385260
+    second: Amazon_1_Spritelist_58
+  - first:
+      213: -6333710549947374060
+    second: Amazon_1_Spritelist_59
+  - first:
+      213: 4269908531470746022
+    second: Amazon_1_Spritelist_60
+  - first:
+      213: 2185715586361290875
+    second: Amazon_1_Spritelist_61
+  - first:
+      213: 4343111317327073721
+    second: Amazon_1_Spritelist_62
+  - first:
+      213: -8533368039644427574
+    second: Amazon_1_Spritelist_63
+  - first:
+      213: 6288227041402075929
+    second: Amazon_1_Spritelist_64
+  - first:
+      213: -9216743482815811670
+    second: Amazon_1_Spritelist_65
+  - first:
+      213: -5871087509025991873
+    second: Amazon_1_Spritelist_66
+  - first:
+      213: 2266205446345315981
+    second: Amazon_1_Spritelist_67
+  - first:
+      213: -7560997033507631550
+    second: Amazon_1_Spritelist_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1153
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec64dfdd17101560800000000000000
+      internalID: 7282346014534823151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1153
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65da08f4d5136b80800000000000000
+      internalID: -8402848475304503953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1153
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f95dad10264a8d0800000000000000
+      internalID: -2836034105230647542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_3
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1153
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01853c2dc08ef4b20800000000000000
+      internalID: 3120968208564312080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_4
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1153
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744df671496a72e00800000000000000
+      internalID: 1019966995601282119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_5
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1153
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a500a62199025bc0800000000000000
+      internalID: -3795961016896977500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_6
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1023
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53df83affef3d0eb0800000000000000
+      internalID: -4752071731878232779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1023
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4442eeaa3bea4acd0800000000000000
+      internalID: -2547719402494745532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_8
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1023
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f518f74c41a78bf20800000000000000
+      internalID: 3438632545111998815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_9
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1023
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1f5c1f354ad5f10800000000000000
+      internalID: 2260143268455379404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_10
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1023
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb02b49de82a3fb70800000000000000
+      internalID: 8931661220420460734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_11
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 895
+        width: 33
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68eb4440ce1277d90800000000000000
+      internalID: -7100168989958685050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_12
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 895
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47981294d6cffbe20800000000000000
+      internalID: 3368688592604989812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_13
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 895
+        width: 39
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbaf571ee08f4ec60800000000000000
+      internalID: 7846669193582082749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_14
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 895
+        width: 37
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af730eee5ff27130800000000000000
+      internalID: 3563191038388699047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_15
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 895
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f585c575721cf6a00800000000000000
+      internalID: 752032037507717215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_16
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 895
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccdc8e00a16dd8c0800000000000000
+      internalID: -3972911956204135231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 895
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1049258774c5a50800000000000000
+      internalID: 6511157743377973672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_18
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 895
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c020032c14ed9c0800000000000000
+      internalID: -3900607924971369358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_19
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 895
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07927bcec6541fde0800000000000000
+      internalID: -1301182483203151504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_20
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 895
+        width: 35
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2bf730e559be010800000000000000
+      internalID: 1219232355152016086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_21
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 767
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7c173025c0fc790800000000000000
+      internalID: -7507768507418687541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_22
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 767
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7dd17fe614170c0800000000000000
+      internalID: -4579807401210947597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 771
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c1739ec2fd9c180800000000000000
+      internalID: -9094492588513747853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_24
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 767
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f96e80c5633daf0800000000000000
+      internalID: -372894575227396347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_25
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 767
+        width: 35
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf68d03c05175f50800000000000000
+      internalID: 6869982898680262573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_26
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 767
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92d58ac4470f5a50800000000000000
+      internalID: 6511931578237964955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_27
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 767
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e3bd53e186924a0800000000000000
+      internalID: -6617643698482364782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_28
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 770
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093fc2fee3b04a060800000000000000
+      internalID: 6963703288750207888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_29
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 767
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99dbf961556bdd850800000000000000
+      internalID: 6403474721758756249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_30
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 767
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038773c4b06fc9b20800000000000000
+      internalID: 3142657168381540400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_31
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 639
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee2a9d40bc11e550800000000000000
+      internalID: 6188258906525544161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_32
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 639
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3f6e605fc0966f0800000000000000
+      internalID: -691006821302340668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_33
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 639
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d38a8dd9ab21980800000000000000
+      internalID: -8569581953825096414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_34
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 639
+        width: 40
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b98ec7e8bdd355e0800000000000000
+      internalID: -1921948829724276299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_35
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 639
+        width: 44
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3b4fbaf45235350800000000000000
+      internalID: 6004183752332587976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_36
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 639
+        width: 46
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13052fe0982516ca0800000000000000
+      internalID: -6025444077830254543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_37
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 642
+        width: 44
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecf5da60ffaef320800000000000000
+      internalID: 2593703882531405039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_38
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 641
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70b01c12968047a0800000000000000
+      internalID: -6394963508771901316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_39
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 639
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ad131f3c0cdb9d0800000000000000
+      internalID: -2756835449083143652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_40
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 639
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6086efc00bab6e60800000000000000
+      internalID: 7956641186656452716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_41
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 639
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8ca92e35a625770800000000000000
+      internalID: 8598051547120322759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_42
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 511
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebf15ab6a39caad0800000000000000
+      internalID: -2689612533147239442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_43
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 511
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a757a2f609ba76a0800000000000000
+      internalID: -6450640076762818649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_44
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 511
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d72b8db723dd610800000000000000
+      internalID: 1647528546185411848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_45
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 511
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdd5b8549dece8c0800000000000000
+      internalID: -3968535950220993082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_46
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 546
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffa4feca3092f3b0800000000000000
+      internalID: -5480159214301827083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_47
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 511
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9c7b1ee9b75db30800000000000000
+      internalID: 4311488140599085486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_48
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 383
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72d8920a151fd7f0800000000000000
+      internalID: -585726225077972356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_49
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 383
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49550ee397d81540800000000000000
+      internalID: 4978966418411575631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_50
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 443
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08702c98946816410800000000000000
+      internalID: 1468602603901421440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_51
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 438
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b367572e3ff14b20800000000000000
+      internalID: 3117053059530187702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_52
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 420
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519e7c7a1610e27d0800000000000000
+      internalID: -2941411987688003307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_53
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 383
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af613ba4ea8898440800000000000000
+      internalID: 4938628748547397370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_54
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 255
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22232cfe55af71800800000000000000
+      internalID: 583209923769414178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_55
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 255
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83890e5b2d2bbf2b0800000000000000
+      internalID: -5549645497739732936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_56
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 255
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb86086543e43780800000000000000
+      internalID: -8704082292562818116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_57
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 255
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e7d866347946250800000000000000
+      internalID: 5937036524520308293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_58
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 255
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6945770149add050800000000000000
+      internalID: 5826999589650385260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 127
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4162e30ffc32a18a0800000000000000
+      internalID: -6333710549947374060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_60
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 127
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a149b9bf23c14b30800000000000000
+      internalID: 4269908531470746022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_61
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 127
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b707911deb8355e10800000000000000
+      internalID: 2185715586361290875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_62
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 155
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b152497bb4d54c30800000000000000
+      internalID: 4343111317327073721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_63
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 127
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca825bcaf2639980800000000000000
+      internalID: -8533368039644427574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_64
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 3
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bb6cd7d25444750800000000000000
+      internalID: 6288227041402075929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_65
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafedd082ac871080800000000000000
+      internalID: -9216743482815811670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_66
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33d5435405b58ea0800000000000000
+      internalID: -5871087509025991873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_67
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 75
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86d779b8dd237f10800000000000000
+      internalID: 2266205446345315981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon_1_Spritelist_68
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 77
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ecef50241f11790800000000000000
+      internalID: -7560997033507631550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

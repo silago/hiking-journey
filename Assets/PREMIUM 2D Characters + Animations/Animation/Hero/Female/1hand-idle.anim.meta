@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 10c268830f5f245868f11108494d9486
+timeCreated: 1460787532
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/1hand-idle.anim
+  uploadId: 481882

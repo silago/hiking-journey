@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 975492c649d4a4494882e25145a5707a
+timeCreated: 1470630926
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/2sword-stab-up.anim
+  uploadId: 481882

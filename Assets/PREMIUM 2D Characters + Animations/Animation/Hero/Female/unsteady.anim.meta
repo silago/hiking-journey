@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c25fc293fd4aa4652bafc763c8f4f3b3
+timeCreated: 1459851769
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/unsteady.anim
+  uploadId: 481882

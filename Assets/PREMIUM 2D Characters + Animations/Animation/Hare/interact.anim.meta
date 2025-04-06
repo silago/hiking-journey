@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0703a2ce8b6ff4ed69d3e2fe00b78874
+timeCreated: 1473927634
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/1
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hare/interact.anim
+  uploadId: 481882

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ea279dca220cc4a84ac754a43cd0ffed
+timeCreated: 1469871800
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/face-idle.anim
+  uploadId: 481882

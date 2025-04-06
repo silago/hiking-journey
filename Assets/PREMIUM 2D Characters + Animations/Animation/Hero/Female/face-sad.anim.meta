@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: acee37a5105e1461ead6d0fe7c2f6b8d
+timeCreated: 1470214206
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/face-sad.anim
+  uploadId: 481882

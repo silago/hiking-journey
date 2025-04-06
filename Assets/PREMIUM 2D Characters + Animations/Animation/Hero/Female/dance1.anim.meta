@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 27384959b49f344499cad8540295d565
+timeCreated: 1468051245
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/dance1.anim
+  uploadId: 481882

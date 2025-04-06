@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2b8d4d3dec1224c88ab91ac777e66c8d
+timeCreated: 1460543378
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/cooking.anim
+  uploadId: 481882

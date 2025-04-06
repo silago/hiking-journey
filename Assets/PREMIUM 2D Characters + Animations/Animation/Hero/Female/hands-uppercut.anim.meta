@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 65ba4d9e3224f4261ab58cee93d063d1
+timeCreated: 1467637638
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/hands-uppercut.anim
+  uploadId: 481882

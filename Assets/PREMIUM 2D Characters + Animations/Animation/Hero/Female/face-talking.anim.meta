@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7c5acd140ecef471bbf205d42bd6ad65
+timeCreated: 1469872548
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/face-talking.anim
+  uploadId: 481882

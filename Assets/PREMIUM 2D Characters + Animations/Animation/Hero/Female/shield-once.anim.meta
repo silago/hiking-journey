@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e188ef1249fb14e90acc21d6f3201a08
+timeCreated: 1465813085
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/shield-once.anim
+  uploadId: 481882

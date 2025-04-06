@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using com.cyborgAssets.inspectorButtonPro;
 using Cysharp.Threading.Tasks;
 using Newtonsoft.Json;
 using TMPro;
@@ -30,13 +31,17 @@ public class QuestBehaviour : MonoBehaviour
     [FormerlySerializedAs("Settings")] [SerializeField]
     public QuestSettingsContainer settingsContainer;
 
-    [SerializeField] public Camera camera;
+    [SerializeField] private Vector3 cameraFollowOffset;
+    [SerializeField] public Camera _camera;
+
+    public Camera camera
+    {
+        get => _camera;
+    } 
     [SerializeField] private GameObject completePanel;
     [SerializeField] private Button completeButton;
+    [SerializeField] private Animator playerAnimator;
     
-    public bool Do = false;
-    public int NewSteps;
-
 
     public QuestData Data;
     private MainActivityBridge bridge;
@@ -63,7 +68,30 @@ public class QuestBehaviour : MonoBehaviour
             PlayerPrefs.SetString(settingsContainer.questSettings.QuestName, s);
         }
     }
+
+    [ProButton]
+    private void UpdateCharacterPos(float steps)
+    {
+        var f = (float) steps / (float)settingsContainer.questSettings.TotalSteps;
+        var pos = splineContainer.EvaluatePosition(f);
+        pos.z = character.transform.position.z;
+        character.position = pos;
+
+        var camPos = camera.transform.position;
+        camPos.x = character.position.x;
+        camPos.y = character.position.y;
+        camPos += cameraFollowOffset;
+        camera.transform.position = camPos;
+    }
     
+    [ProButton]
+    private void SetSteps(int steps)
+    {
+        var questData = StorageService.Instance.CurrentQuestData;
+        questData.NewSavedPositionSteps = steps;
+        StorageService.Instance.CurrentQuestData = questData;
+    }
+
     private void Update()
     {
         var questData = StorageService.Instance.CurrentQuestData;
@@ -71,27 +99,20 @@ public class QuestBehaviour : MonoBehaviour
         info.text = $"is running {isRunning}\r\n";
         info.text += JsonConvert.SerializeObject(questData, Formatting.Indented);
 
-        if (Do)
+        if (isRunning)
         {
-            questData.NewSavedPositionSteps = NewSteps;
-            StorageService.Instance.CurrentQuestData = questData;
-            Do = false;
             return;
         }
         
-        if (!isRunning)
+        if (questData.PreviousSavedPositionSteps < questData.NewSavedPositionSteps)
         {
-            if (questData.PreviousSavedPositionSteps < questData.NewSavedPositionSteps)
-            {
-                Progress();
-            }
+            Progress();
+        }
             
             
-            if (questData.PreviousSavedPositionSteps == questData.NewSavedPositionSteps)
-            {
-                stepsCountText.text = questData.PreviousSavedPositionSteps.ToString();
-            }
-
+        if (questData.PreviousSavedPositionSteps == questData.NewSavedPositionSteps)
+        {
+            stepsCountText.text = questData.PreviousSavedPositionSteps.ToString();
         }
 
         return;
@@ -99,7 +120,7 @@ public class QuestBehaviour : MonoBehaviour
 
     private async void Awake()
     {
-        completePanel.SetActive(true);
+        completePanel.SetActive(false);
         
         this.bridge = await MainActivityBridge.Instance();
         await bridge.CheckForAutoStartPermission();
@@ -130,7 +151,10 @@ public class QuestBehaviour : MonoBehaviour
 
         var camPos = camera.transform.position;
         camPos.x = character.position.x;
+        camPos.y = character.position.y;
+        camPos += cameraFollowOffset;
         camera.transform.position = camPos;
+        
     }
 
     private void OnDrawGizmos()
@@ -158,6 +182,7 @@ public class QuestBehaviour : MonoBehaviour
     public async UniTask Progress()
     {
         isRunning = true;
+        playerAnimator.SetTrigger("Walk");
         var data = StorageService.Instance.CurrentQuestData;
 
         try
@@ -189,17 +214,20 @@ public class QuestBehaviour : MonoBehaviour
                     return;
                 }
 
+                UpdateCharacterPos(step);
                 data.PreviousSavedPositionSteps = (int)step;
                 StorageService.Instance.CurrentQuestData = data;
 
-                var f = step / settingsContainer.questSettings.TotalSteps;
-                var pos = splineContainer.EvaluatePosition(f);
-                pos.z = character.transform.position.z;
-                character.position = pos;
+                //var f = step / settingsContainer.questSettings.TotalSteps;
+                //var pos = splineContainer.EvaluatePosition(f);
+                //pos.z = character.transform.position.z;
+                //character.position = pos;
 
-                var camPos = camera.transform.position;
-                camPos.x = character.position.x;
-                camera.transform.position = camPos;
+                //var camPos = camera.transform.position;
+                //camPos.x = character.position.x;
+                //camPos.x = character.position.y;
+                //camPos += cameraFollowOffset;
+                //camera.transform.position = camPos;
             }
 
             isRunning = false;
@@ -212,6 +240,8 @@ public class QuestBehaviour : MonoBehaviour
             {
                 completePanel.SetActive(true);
             }
+            
+            playerAnimator.SetTrigger("Stop");
         }
     }
 }

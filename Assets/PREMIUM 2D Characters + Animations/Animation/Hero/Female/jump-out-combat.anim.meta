@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9eb1fd2144cd443249c122ad8777bb7f
+timeCreated: 1459757877
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/jump-out-combat.anim
+  uploadId: 481882

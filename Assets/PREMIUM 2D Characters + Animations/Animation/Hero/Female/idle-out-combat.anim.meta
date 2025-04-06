@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 79f520aec469848878a4b15dcef8dc5f
+timeCreated: 1459588868
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/idle-out-combat.anim
+  uploadId: 481882

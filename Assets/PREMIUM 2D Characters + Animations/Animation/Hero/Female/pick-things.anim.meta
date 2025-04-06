@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e9b4a1b39d4d549f899f34df7a5959fb
+timeCreated: 1459771541
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/pick-things.anim
+  uploadId: 481882

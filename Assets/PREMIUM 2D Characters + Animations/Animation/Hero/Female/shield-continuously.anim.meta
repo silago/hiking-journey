@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 629ef83ddbe804b96b6ffa53cd6e8bd9
+timeCreated: 1465813119
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/shield-continuously.anim
+  uploadId: 481882

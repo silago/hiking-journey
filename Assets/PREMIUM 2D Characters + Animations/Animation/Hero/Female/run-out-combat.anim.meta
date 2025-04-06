@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 02b468921926f42acaf3a3e5320ada40
+timeCreated: 1459595956
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/run-out-combat.anim
+  uploadId: 481882

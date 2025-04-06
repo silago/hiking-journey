@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a8c7540a2d75d48539aeec41fcc41560
+timeCreated: 1467453624
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/jump-backward.anim
+  uploadId: 481882

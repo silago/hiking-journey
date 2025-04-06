@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a4e5ee0998a2e46c4b1883b794bc6a4f
+timeCreated: 1465809472
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/gun-aim.anim
+  uploadId: 481882

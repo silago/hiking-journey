@@ -1,0 +1,1268 @@
+fileFormatVersion: 2
+guid: 3ee1dd6873c02de49be8c61e36574fd0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Sprite/Hero/Suit/Male_Underwear.png
+  uploadId: 481882
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Armor-Template2_0
+  - first:
+      213: 21300002
+    second: Armor-Template2_1
+  - first:
+      213: 21300004
+    second: Armor-Template2_2
+  - first:
+      213: 21300006
+    second: Armor-Template2_3
+  - first:
+      213: 21300008
+    second: Armor-Template2_4
+  - first:
+      213: 21300010
+    second: Armor-Template2_5
+  - first:
+      213: 21300012
+    second: Armor-Template2_6
+  - first:
+      213: 21300014
+    second: Armor-Template2_7
+  - first:
+      213: 21300016
+    second: Armor-Template2_8
+  - first:
+      213: 21300018
+    second: Armor-Template2_9
+  - first:
+      213: 21300020
+    second: Armor-Template2_10
+  - first:
+      213: 21300022
+    second: Armor-Template2_11
+  - first:
+      213: 21300024
+    second: Armor-Template2_12
+  - first:
+      213: 21300026
+    second: Armor-Template2_13
+  - first:
+      213: 21300028
+    second: Armor-Template2_14
+  - first:
+      213: 21300030
+    second: Armor-Template2_15
+  - first:
+      213: 21300032
+    second: Armor-Template2_16
+  - first:
+      213: 21300034
+    second: Armor-Template2_17
+  - first:
+      213: 21300036
+    second: Armor-Template2_18
+  - first:
+      213: 21300038
+    second: Armor-Template2_19
+  - first:
+      213: 21300040
+    second: Armor-Template2_20
+  - first:
+      213: 21300042
+    second: Armor-Template2_21
+  - first:
+      213: 21300044
+    second: Armor-Template2_22
+  - first:
+      213: 21300046
+    second: Armor-Template2_23
+  - first:
+      213: 21300048
+    second: Armor-Template2_24
+  - first:
+      213: 21300050
+    second: Armor-Template2_25
+  - first:
+      213: 21300052
+    second: Armor-Template2_26
+  - first:
+      213: 21300054
+    second: Armor-Template2_27
+  - first:
+      213: 21300056
+    second: Armor-Template2_28
+  - first:
+      213: 21300058
+    second: Armor-Template2_29
+  - first:
+      213: 21300060
+    second: Armor-Template2_30
+  - first:
+      213: 21300062
+    second: Armor-Template2_31
+  - first:
+      213: 21300064
+    second: Armor-Template2_32
+  - first:
+      213: 21300066
+    second: Armor-Template2_33
+  - first:
+      213: 21300068
+    second: Armor-Template2_34
+  - first:
+      213: 21300070
+    second: Armor-Template3_0
+  - first:
+      213: 21300072
+    second: Armor-Template3_1
+  - first:
+      213: 21300074
+    second: Armor-Template3_2
+  - first:
+      213: 21300076
+    second: Armor-Template3_3
+  - first:
+      213: 21300078
+    second: Armor-Template3_4
+  - first:
+      213: 21300080
+    second: Armor-Template_0
+  - first:
+      213: 21300082
+    second: Armor-Template_1
+  - first:
+      213: 21300084
+    second: Armor-Template_2
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Armor-Template2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 435
+        width: 59
+        height: 77
+      alignment: 9
+      pivot: {x: 0.525, y: 0.565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template2_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 359
+        width: 59
+        height: 77
+      alignment: 9
+      pivot: {x: 0.525, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template2_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 59
+        height: 78
+      alignment: 9
+      pivot: {x: 0.52, y: 0.565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template2_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 435
+        width: 59
+        height: 77
+      alignment: 9
+      pivot: {x: 0.52, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template2_4
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 359
+        width: 59
+        height: 77
+      alignment: 9
+      pivot: {x: 0.52, y: 0.565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template2_5
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 280
+        width: 59
+        height: 78
+      alignment: 9
+      pivot: {x: 0.52, y: 0.575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template2_6
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 450
+        width: 59
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5164556, y: 0.46258143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template2_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 389
+        width: 59
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5164556, y: 0.4625814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template2_8
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 327
+        width: 59
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5164556, y: 0.4625814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template2_9
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 450
+        width: 59
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5164556, y: 0.4625814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template2_10
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 389
+        width: 59
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5164556, y: 0.4625814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template2_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 327
+        width: 59
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5164556, y: 0.4625814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template2_12
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 307
+        width: 32
+        height: 20
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template2_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 38
+        height: 54
+      alignment: 9
+      pivot: {x: 0.31, y: 0.77}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template2_14
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 88
+        width: 38
+        height: 54
+      alignment: 9
+      pivot: {x: 0.31, y: 0.77}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template2_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 88
+        width: 38
+        height: 54
+      alignment: 9
+      pivot: {x: 0.31, y: 0.77}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template2_16
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 88
+        width: 38
+        height: 54
+      alignment: 9
+      pivot: {x: 0.31, y: 0.77}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template2_17
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 88
+        width: 38
+        height: 54
+      alignment: 9
+      pivot: {x: 0.31, y: 0.77}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 43
+        height: 57
+      alignment: 9
+      pivot: {x: 0.32, y: 0.78}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template2_19
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 223
+        width: 43
+        height: 57
+      alignment: 9
+      pivot: {x: 0.32, y: 0.78}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template2_20
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 223
+        width: 43
+        height: 57
+      alignment: 9
+      pivot: {x: 0.32, y: 0.78}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template2_21
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 223
+        width: 43
+        height: 57
+      alignment: 9
+      pivot: {x: 0.32, y: 0.78}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template2_22
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 223
+        width: 43
+        height: 57
+      alignment: 9
+      pivot: {x: 0.32, y: 0.78}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template2_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185
+        width: 44
+        height: 38
+      alignment: 9
+      pivot: {x: 0.33, y: 0.83}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template2_24
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 185
+        width: 44
+        height: 38
+      alignment: 9
+      pivot: {x: 0.33, y: 0.83}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template2_25
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 185
+        width: 44
+        height: 38
+      alignment: 9
+      pivot: {x: 0.33, y: 0.83}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template2_26
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 185
+        width: 44
+        height: 38
+      alignment: 9
+      pivot: {x: 0.33, y: 0.83}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template2_27
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 185
+        width: 44
+        height: 38
+      alignment: 9
+      pivot: {x: 0.33, y: 0.83}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template2_28
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 289
+        width: 44
+        height: 38
+      alignment: 9
+      pivot: {x: 0.33, y: 0.83}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template2_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 40
+        height: 43
+      alignment: 9
+      pivot: {x: 0.42, y: 0.83}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template2_30
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 142
+        width: 40
+        height: 43
+      alignment: 9
+      pivot: {x: 0.42, y: 0.83}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template2_31
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 142
+        width: 40
+        height: 43
+      alignment: 9
+      pivot: {x: 0.42, y: 0.83}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template2_32
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 142
+        width: 40
+        height: 43
+      alignment: 9
+      pivot: {x: 0.42, y: 0.83}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template2_33
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 142
+        width: 40
+        height: 43
+      alignment: 9
+      pivot: {x: 0.42, y: 0.83}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template2_34
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 142
+        width: 40
+        height: 43
+      alignment: 9
+      pivot: {x: 0.42, y: 0.83}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template3_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 48
+        width: 39
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template3_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 48
+        width: 39
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template3_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 48
+        width: 39
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template3_3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 48
+        width: 39
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template3_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 287
+        width: 39
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template_0
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 88
+        width: 38
+        height: 54
+      alignment: 9
+      pivot: {x: 0.31, y: 0.77}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 38
+        height: 54
+      alignment: 9
+      pivot: {x: 0.31, y: 0.77}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor-Template_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 34
+        width: 38
+        height: 54
+      alignment: 9
+      pivot: {x: 0.31, y: 0.77}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Armor-Template2_0: 21300000
+      Armor-Template2_1: 21300002
+      Armor-Template2_10: 21300020
+      Armor-Template2_11: 21300022
+      Armor-Template2_12: 21300024
+      Armor-Template2_13: 21300026
+      Armor-Template2_14: 21300028
+      Armor-Template2_15: 21300030
+      Armor-Template2_16: 21300032
+      Armor-Template2_17: 21300034
+      Armor-Template2_18: 21300036
+      Armor-Template2_19: 21300038
+      Armor-Template2_2: 21300004
+      Armor-Template2_20: 21300040
+      Armor-Template2_21: 21300042
+      Armor-Template2_22: 21300044
+      Armor-Template2_23: 21300046
+      Armor-Template2_24: 21300048
+      Armor-Template2_25: 21300050
+      Armor-Template2_26: 21300052
+      Armor-Template2_27: 21300054
+      Armor-Template2_28: 21300056
+      Armor-Template2_29: 21300058
+      Armor-Template2_3: 21300006
+      Armor-Template2_30: 21300060
+      Armor-Template2_31: 21300062
+      Armor-Template2_32: 21300064
+      Armor-Template2_33: 21300066
+      Armor-Template2_34: 21300068
+      Armor-Template2_4: 21300008
+      Armor-Template2_5: 21300010
+      Armor-Template2_6: 21300012
+      Armor-Template2_7: 21300014
+      Armor-Template2_8: 21300016
+      Armor-Template2_9: 21300018
+      Armor-Template3_0: 21300070
+      Armor-Template3_1: 21300072
+      Armor-Template3_2: 21300074
+      Armor-Template3_3: 21300076
+      Armor-Template3_4: 21300078
+      Armor-Template_0: 21300080
+      Armor-Template_1: 21300082
+      Armor-Template_2: 21300084
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5eadd9b3575504eafbf486e35f50ed61
+timeCreated: 1473919773
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/1
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hare/angry.anim
+  uploadId: 481882

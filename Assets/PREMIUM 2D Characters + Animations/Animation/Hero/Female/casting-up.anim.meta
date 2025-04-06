@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a5d5e481dd9444117be610074a0965ae
+timeCreated: 1467114600
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/casting-up.anim
+  uploadId: 481882

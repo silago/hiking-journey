@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f7235204d83ce4ea6a67de7aab061f9a
+timeCreated: 1473847220
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/1
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hare/pre-idle.anim
+  uploadId: 481882

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 73290b0f2865944e59331a798c791167
+timeCreated: 1469868040
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/legs-run.anim
+  uploadId: 481882

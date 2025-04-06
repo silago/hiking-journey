@@ -1,0 +1,1368 @@
+fileFormatVersion: 2
+guid: ff7918bdd50a4fe4fb2d747c3e58738d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2988469494909115518
+    second: Peasants_2_Spritelist_0
+  - first:
+      213: -1897633491048113841
+    second: Peasants_2_Spritelist_1
+  - first:
+      213: -3195744488245633411
+    second: Peasants_2_Spritelist_2
+  - first:
+      213: 4250272982564537097
+    second: Peasants_2_Spritelist_3
+  - first:
+      213: -4090763860751070067
+    second: Peasants_2_Spritelist_4
+  - first:
+      213: -1359731128832523261
+    second: Peasants_2_Spritelist_5
+  - first:
+      213: 5037241241577588303
+    second: Peasants_2_Spritelist_6
+  - first:
+      213: -3512719067581498928
+    second: Peasants_2_Spritelist_7
+  - first:
+      213: -8419060983105353086
+    second: Peasants_2_Spritelist_8
+  - first:
+      213: -8564145496992302502
+    second: Peasants_2_Spritelist_9
+  - first:
+      213: -391425966931949336
+    second: Peasants_2_Spritelist_10
+  - first:
+      213: -5453091787330536771
+    second: Peasants_2_Spritelist_11
+  - first:
+      213: 2829126783885732441
+    second: Peasants_2_Spritelist_12
+  - first:
+      213: 5565930936329791723
+    second: Peasants_2_Spritelist_13
+  - first:
+      213: 3617547846890637087
+    second: Peasants_2_Spritelist_14
+  - first:
+      213: -163797171904216192
+    second: Peasants_2_Spritelist_15
+  - first:
+      213: -6089841706613985786
+    second: Peasants_2_Spritelist_16
+  - first:
+      213: 2504522964469212091
+    second: Peasants_2_Spritelist_17
+  - first:
+      213: 6318570194189579706
+    second: Peasants_2_Spritelist_18
+  - first:
+      213: -5955042361419787182
+    second: Peasants_2_Spritelist_19
+  - first:
+      213: 9055836642635717558
+    second: Peasants_2_Spritelist_20
+  - first:
+      213: 5708565092171497302
+    second: Peasants_2_Spritelist_21
+  - first:
+      213: -6349668208176583484
+    second: Peasants_2_Spritelist_22
+  - first:
+      213: -8341920233907262248
+    second: Peasants_2_Spritelist_23
+  - first:
+      213: -6534943513392018047
+    second: Peasants_2_Spritelist_24
+  - first:
+      213: -361384484048755173
+    second: Peasants_2_Spritelist_25
+  - first:
+      213: 3458455824478644880
+    second: Peasants_2_Spritelist_26
+  - first:
+      213: 8864251726651015755
+    second: Peasants_2_Spritelist_27
+  - first:
+      213: 4262218562779628934
+    second: Peasants_2_Spritelist_28
+  - first:
+      213: 8077984116281170111
+    second: Peasants_2_Spritelist_29
+  - first:
+      213: -6663249242044665033
+    second: Peasants_2_Spritelist_30
+  - first:
+      213: 74626773716013457
+    second: Peasants_2_Spritelist_31
+  - first:
+      213: -4693695545255938493
+    second: Peasants_2_Spritelist_32
+  - first:
+      213: -8555190026784199132
+    second: Peasants_2_Spritelist_33
+  - first:
+      213: 5561028200236931317
+    second: Peasants_2_Spritelist_34
+  - first:
+      213: -5289273327408692553
+    second: Peasants_2_Spritelist_35
+  - first:
+      213: -2147196226801341301
+    second: Peasants_2_Spritelist_36
+  - first:
+      213: -1895054566161907990
+    second: Peasants_2_Spritelist_37
+  - first:
+      213: 7729805414752429089
+    second: Peasants_2_Spritelist_38
+  - first:
+      213: -4050180079494500257
+    second: Peasants_2_Spritelist_39
+  - first:
+      213: -4567721854942937647
+    second: Peasants_2_Spritelist_40
+  - first:
+      213: 2666915365217843287
+    second: Peasants_2_Spritelist_41
+  - first:
+      213: -877320418922235759
+    second: Peasants_2_Spritelist_42
+  - first:
+      213: 1979918716327403159
+    second: Peasants_2_Spritelist_43
+  - first:
+      213: 7298268114638033008
+    second: Peasants_2_Spritelist_44
+  - first:
+      213: -9006211103878772464
+    second: Peasants_2_Spritelist_45
+  - first:
+      213: -2490258757888471706
+    second: Peasants_2_Spritelist_46
+  - first:
+      213: 5798271826386240972
+    second: Peasants_2_Spritelist_47
+  - first:
+      213: -6840777290924396287
+    second: Peasants_2_Spritelist_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 639
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c162a0c2d297920800000000000000
+      internalID: 2988469494909115518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 639
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49513cd4604aa5e0800000000000000
+      internalID: -1897633491048113841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_2
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 639
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ed439d15f66a3d0800000000000000
+      internalID: -3195744488245633411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_3
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 639
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903033c32c00cfa30800000000000000
+      internalID: 4250272982564537097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_4
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 639
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c4de341ffaa37c0800000000000000
+      internalID: -4090763860751070067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_5
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 639
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30485e31eb3412de0800000000000000
+      internalID: -1359731128832523261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_6
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 511
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f460e248830e7e540800000000000000
+      internalID: 5037241241577588303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_7
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 511
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d930158e90504fc0800000000000000
+      internalID: -3512719067581498928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_8
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 511
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a87a754ac792b80800000000000000
+      internalID: -8419060983105353086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_9
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 511
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a33079b0b062980800000000000000
+      internalID: -8564145496992302502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_10
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 511
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8482d2820619af0800000000000000
+      internalID: -391425966931949336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_11
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 511
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba309049e9b254b0800000000000000
+      internalID: -5453091787330536771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_12
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 511
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a6d0212d3134720800000000000000
+      internalID: 2829126783885732441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_13
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 511
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be86b4072b82e3d40800000000000000
+      internalID: 5565930936329791723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_14
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 511
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1745e3a99c143230800000000000000
+      internalID: 3617547846890637087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_15
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 511
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0838f6907531abdf0800000000000000
+      internalID: -163797171904216192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_16
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 511
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e2ae2bb398c7ba0800000000000000
+      internalID: -6089841706613985786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_17
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 511
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3eefcdd5ad1c220800000000000000
+      internalID: 2504522964469212091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_18
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 511
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab57a094d1210b750800000000000000
+      internalID: 6318570194189579706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_19
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 383
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2549b2106807b5da0800000000000000
+      internalID: -5955042361419787182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_20
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 383
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb9444527bccad70800000000000000
+      internalID: 9055836642635717558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_21
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 383
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fb310c4b5e83f40800000000000000
+      internalID: 5708565092171497302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_22
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 383
+        width: 26
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc2b0a186271e7a0800000000000000
+      internalID: -6349668208176583484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_23
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 383
+        width: 23
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc6051aebb8b3c80800000000000000
+      internalID: -8341920233907262248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_24
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 383
+        width: 27
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d86098f773f45a0800000000000000
+      internalID: -6534943513392018047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_25
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 383
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16afe8f9ba1cfaf0800000000000000
+      internalID: -361384484048755173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_26
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 383
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a2e69af37eeff20800000000000000
+      internalID: 3458455824478644880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_27
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 383
+        width: 27
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b424da60bf5240b70800000000000000
+      internalID: 8864251726651015755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_28
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 383
+        width: 24
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6854e8d5331762b30800000000000000
+      internalID: 4262218562779628934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_29
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 255
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8df2831c3ca1070800000000000000
+      internalID: 8077984116281170111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_30
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 255
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73379062e126783a0800000000000000
+      internalID: -6663249242044665033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_31
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 259
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1919312c7a0290100800000000000000
+      internalID: 74626773716013457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_32
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 255
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346bf2515c4acdeb0800000000000000
+      internalID: -4693695545255938493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_33
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 255
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e209b7ffbd54980800000000000000
+      internalID: -8555190026784199132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_34
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 255
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f85d0d3fadbc2d40800000000000000
+      internalID: 5561028200236931317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_35
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 255
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b24bd7bee9b896b0800000000000000
+      internalID: -5289273327408692553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_36
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 259
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c62767860a332e0800000000000000
+      internalID: -2147196226801341301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_37
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 255
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeeffe999e963b5e0800000000000000
+      internalID: -1895054566161907990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_38
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 255
+        width: 29
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124a5390219c54b60800000000000000
+      internalID: 7729805414752429089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_39
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 127
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50fd5d2daedac7c0800000000000000
+      internalID: -4050180079494500257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_40
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 127
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd765b7c213c90c0800000000000000
+      internalID: -4567721854942937647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_41
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 127
+        width: 33
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75837dd0569c20520800000000000000
+      internalID: 2666915365217843287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_42
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 127
+        width: 32
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19871fb2ab123d3f0800000000000000
+      internalID: -877320418922235759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_43
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 127
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e97da15951a7b10800000000000000
+      internalID: 1979918716327403159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_44
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 127
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0705f80be28a84560800000000000000
+      internalID: 7298268114638033008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_45
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 127
+        width: 39
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019802dc7b2830380800000000000000
+      internalID: -9006211103878772464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_46
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 127
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d80498ad2d07dd0800000000000000
+      internalID: -2490258757888471706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_47
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc548ea6189977050800000000000000
+      internalID: 5798271826386240972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peasants_2_Spritelist_48
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 0
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10174e24c4da011a0800000000000000
+      internalID: -6840777290924396287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

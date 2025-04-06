@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6108feb6f92664e1a8a10e860b6fc844
+timeCreated: 1469864861
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/legs-none.anim
+  uploadId: 481882

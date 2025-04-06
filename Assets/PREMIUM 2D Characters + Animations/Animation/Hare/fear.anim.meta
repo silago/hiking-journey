@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9ea165d2ad13e44839639e079061b1c0
+timeCreated: 1474003366
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/1
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hare/fear.anim
+  uploadId: 481882

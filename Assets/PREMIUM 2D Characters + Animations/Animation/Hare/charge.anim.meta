@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ebd855ce8d2094420a8223821020c63e
+timeCreated: 1474003370
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/1
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hare/charge.anim
+  uploadId: 481882

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c9a4c849a9c7a46328a65371bd0bd7f5
+timeCreated: 1465989624
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/shield-smash.anim
+  uploadId: 481882

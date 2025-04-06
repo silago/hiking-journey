@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2c654932d0c954d5d8629fadd1bf9661
+timeCreated: 1460369869
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/interacting.anim
+  uploadId: 481882

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fb67041b060264208b59315bf13dec55
+timeCreated: 1460729143
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/crafting.anim
+  uploadId: 481882

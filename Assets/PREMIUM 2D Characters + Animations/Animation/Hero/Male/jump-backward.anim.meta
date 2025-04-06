@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: db79fd8b77c9e4bce8f74a20b4b92e14
+timeCreated: 1476423136
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Male/jump-backward.anim
+  uploadId: 481882

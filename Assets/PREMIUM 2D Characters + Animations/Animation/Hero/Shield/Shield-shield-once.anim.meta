@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 26864a00e559b492d9a4076f6b52a3d4
+timeCreated: 1474627812
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: shield
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Shield/Shield-shield-once.anim
+  uploadId: 481882

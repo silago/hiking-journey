@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cf3009e38f3724f98b6782aee3ab4c2d
+timeCreated: 1460794851
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/1hand-attack-h.anim
+  uploadId: 481882

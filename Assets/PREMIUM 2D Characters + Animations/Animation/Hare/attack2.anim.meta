@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 066b6eddf8472487299da71dd8bc4705
+timeCreated: 1473941816
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/1
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hare/attack2.anim
+  uploadId: 481882

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a3381cd2e8c3d4ef1a60df9e7968aac0
+timeCreated: 1467469019
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/pump.anim
+  uploadId: 481882

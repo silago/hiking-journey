@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a379ab3b5d0a646fbbb1d242dc284b2a
+timeCreated: 1474627846
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: shield
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Shield/Shield-shield-continuously.anim
+  uploadId: 481882

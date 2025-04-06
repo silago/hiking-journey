@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1e3ead22209d846599e1b83357bb3d3e
+timeCreated: 1474694843
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: shield
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Prefab/Shield.prefab
+  uploadId: 481882

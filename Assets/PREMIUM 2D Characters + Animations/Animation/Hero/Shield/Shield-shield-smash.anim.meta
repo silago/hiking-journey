@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dc1aee0a4e75d487f913a370ff6304de
+timeCreated: 1474627870
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: shield
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Shield/Shield-shield-smash.anim
+  uploadId: 481882

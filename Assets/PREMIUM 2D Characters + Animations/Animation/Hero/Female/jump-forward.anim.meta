@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f6e76889622b44c61a68bc801a44d004
+timeCreated: 1467452338
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/jump-forward.anim
+  uploadId: 481882

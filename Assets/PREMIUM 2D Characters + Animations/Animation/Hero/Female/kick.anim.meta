@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 67a40de26011a4b92ad3c7965234839f
+timeCreated: 1467648224
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/kick.anim
+  uploadId: 481882

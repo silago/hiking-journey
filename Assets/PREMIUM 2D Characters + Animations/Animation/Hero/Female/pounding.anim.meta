@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 39ca5af5c39554d629e07ee6fdf0056e
+timeCreated: 1467473726
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/pounding.anim
+  uploadId: 481882

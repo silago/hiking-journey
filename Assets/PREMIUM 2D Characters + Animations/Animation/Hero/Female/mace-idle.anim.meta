@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ee852bc6ec7a449d9a9158c7de1325ed
+timeCreated: 1465031869
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/mace-idle.anim
+  uploadId: 481882

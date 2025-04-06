@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 35d3f7445c8e740ac8684949a9fd53a1
+timeCreated: 1465373028
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/archer-charge.anim
+  uploadId: 481882

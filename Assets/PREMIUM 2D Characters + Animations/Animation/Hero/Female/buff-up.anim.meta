@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f25c632077fc643db9bf80167d71e23d
+timeCreated: 1466173593
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/buff-up.anim
+  uploadId: 481882

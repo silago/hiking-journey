@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1d4b583532bc85c4fa0f15a8a9cf6454
+timeCreated: 1500636425
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Prefab/HumanM.prefab
+  uploadId: 481882

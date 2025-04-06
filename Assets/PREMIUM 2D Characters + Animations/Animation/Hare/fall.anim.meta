@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7aeca9d59c28343e19969689558eed96
+timeCreated: 1474002115
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/1
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hare/fall.anim
+  uploadId: 481882

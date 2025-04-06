@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3a5d70c891bf445dbae788206438004c
+timeCreated: 1469865094
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/legs-walk.anim
+  uploadId: 481882

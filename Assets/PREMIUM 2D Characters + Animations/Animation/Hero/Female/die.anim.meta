@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e882d5b8d02b74f8e829484f0cc09f89
+timeCreated: 1467716070
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: gamedata/renderstruct/scene/0
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99924
+  packageName: PREMIUM 2D Characters + Animations
+  packageVersion: 1.1
+  assetPath: Assets/PREMIUM 2D Characters + Animations/Animation/Hero/Female/die.anim
+  uploadId: 481882

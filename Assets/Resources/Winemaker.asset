@@ -17,9 +17,9 @@ MonoBehaviour:
     QuestName: Winemaker
     Scene: Winemaker
     DialoguePositions:
-    - StepIndex: 15
+    - StepIndex: 99998
       Name: Start
-    - StepIndex: 60
+    - StepIndex: 99999
       Name: Point1
     LocationPositions:
     - StepIndex: 0
