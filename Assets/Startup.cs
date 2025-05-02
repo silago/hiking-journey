@@ -47,10 +47,7 @@ public class Startup : MonoBehaviour
         
         storage.CurrentQuestSettingsContainer = questSettings.questSettings; 
         
-        if (questData == null)
-        {
-            questData = storage.CurrentQuestData = new QuestData() { QuestName = questName };
-        }
+        storage.CurrentQuestData ??= new QuestData() { QuestName = questName };
 
         Debug.Log($"loadScene: {questSettings?.questSettings.Scene}");
         SceneManager.LoadScene(questSettings.questSettings.Scene);

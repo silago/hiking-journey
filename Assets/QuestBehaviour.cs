@@ -1,10 +1,12 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using BezierSolution;
 using com.cyborgAssets.inspectorButtonPro;
 using Cysharp.Threading.Tasks;
 using Newtonsoft.Json;
 using TMPro;
+using Unity.Mathematics;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.Serialization;
@@ -27,6 +29,7 @@ public class QuestBehaviour : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     [SerializeField] private SplineContainer splineContainer;
     [SerializeField] private Transform character;
+    [SerializeField] private BezierSpline bezierSpline;
 
     [FormerlySerializedAs("Settings")] [SerializeField]
     public QuestSettingsContainer settingsContainer;
@@ -47,6 +50,9 @@ public class QuestBehaviour : MonoBehaviour
     private MainActivityBridge bridge;
     private bool isRunning;
     private StorageService storageService;
+    private int segments;
+    private float[] tValues;
+    private float[] normalizedLengths;
 
     public QuestData _Data
     {
@@ -70,10 +76,34 @@ public class QuestBehaviour : MonoBehaviour
     }
 
     [ProButton]
+    void BuildBezierFromSplie()
+    {
+        var items = splineContainer.Spline.Reverse().ToList();
+        
+        for (int i = 0; i < splineContainer.Spline.Count; i++)
+        {
+            if (i == 0)
+            {
+                continue;
+            }
+            var point = bezierSpline.InsertNewPointAt(0);
+            var spliteItem = items[i]; 
+            point.transform.localPosition = spliteItem.Position;
+            //point.position = splineContainer.Spline[i].Position;
+            point.rotation = Quaternion.identity;
+            point.precedingControlPointLocalPosition = Vector3.zero;
+            point.followingControlPointLocalPosition = Vector3.zero;
+
+        }
+
+        bezierSpline.Reverse();
+    }
+
+    [ProButton]
     private void UpdateCharacterPos(float steps)
     {
         var f = (float) steps / (float)settingsContainer.questSettings.TotalSteps;
-        var pos = splineContainer.EvaluatePosition(f);
+        var pos = bezierSpline.GetPoint(f);
         pos.z = character.transform.position.z;
         character.position = pos;
 
@@ -145,7 +175,7 @@ public class QuestBehaviour : MonoBehaviour
 
 
         var f = Data.PreviousSavedPositionSteps / settingsContainer.questSettings.TotalSteps;
-        var pos = splineContainer.EvaluatePosition(f);
+        var pos = bezierSpline.GetPoint(f);
         pos.z = character.transform.position.z;
         character.position = pos;
 
@@ -164,7 +194,7 @@ public class QuestBehaviour : MonoBehaviour
             foreach (var dialoguePosition in settingsContainer.questSettings.DialoguePositions)
             {
                 var f = (float)dialoguePosition.StepIndex / (float)settingsContainer.questSettings.TotalSteps;
-                var pos = splineContainer.EvaluatePosition(f);
+                var pos = bezierSpline.GetPoint(f);
                 pos.z = character.transform.position.z;
 
                 Gizmos.DrawSphere(pos, 0.1f);
