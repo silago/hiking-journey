@@ -4,9 +4,11 @@ using Cysharp.Threading.Tasks;
 using UnityEngine;
 using UnityEngine.Android;
 using UnityEngine.InputSystem;
+using Zenject;
 
 public class MainActivityBridge : MonoBehaviour
 {
+    [Inject] StorageService storageService;
     private static MainActivityBridge _instance;
 
     public static async UniTask<MainActivityBridge> Instance()
@@ -33,26 +35,28 @@ public class MainActivityBridge : MonoBehaviour
             return;
         }
 
-        _instance = this;
 
         DontDestroyOnLoad(this.gameObject);
 
-        if (!Application.isEditor) {
+        if (!Application.isEditor)
+        {
             unityPlayer = new AndroidJavaClass("com.unity3d.player.UnityPlayer");
             currentActivity = unityPlayer.GetStatic<AndroidJavaObject>("currentActivity");
             bridgeClass = new AndroidJavaClass(PackageName);
         }
-        
+
         SendActivityReference();
 
-        if (StorageService.Instance.UseHealthApp)
+        if (storageService.UseHealthApp)
         {
             var r = await CheckAllHealthPermissions();
             if (!r.success)
             {
-                StorageService.Instance.UseHealthApp = false;
+                storageService.UseHealthApp = false;
             }
         }
+        
+        _instance = this;
     }
 
     /*
@@ -69,7 +73,7 @@ public class MainActivityBridge : MonoBehaviour
         return HasHealthPermissions();
     }
     */
-    
+
     public async UniTask<bool> RequestHealthStepsPermissions()
     {
         if (!await HasHealthStepsPermissions())
@@ -81,7 +85,7 @@ public class MainActivityBridge : MonoBehaviour
 
         return await HasHealthStepsPermissions();
     }
-    
+
     public async UniTask<bool> HasHealthStepsPermissions()
     {
         bridgeClass.CallStatic("checkHealthStepsPermissions");
@@ -100,17 +104,17 @@ public class MainActivityBridge : MonoBehaviour
         return bridgeClass.CallStatic<bool>("hasHealthPermissions");
     }
     */
-    
+
     public bool IsHealthAppUpdateRequired()
     {
-        var result =  bridgeClass.CallStatic<bool>("isHealthAppUpdateRequired");
+        var result = bridgeClass.CallStatic<bool>("isHealthAppUpdateRequired");
         Debug.Log($"healht app available: result: {result}");
         return result;
     }
 
     public bool IsHealthAppAvailable()
     {
-        var result =  bridgeClass.CallStatic<bool>("isHealthAppAvailable");
+        var result = bridgeClass.CallStatic<bool>("isHealthAppAvailable");
         Debug.Log($"healht app available: result: {result}");
         return result;
     }
@@ -148,9 +152,9 @@ public class MainActivityBridge : MonoBehaviour
 
 
         bridgeClass.CallStatic<bool>("requestStepsPermission");
-            await UniTask.NextFrame();
-            await AwaitAppFocused();
-            await UniTask.NextFrame();
+        await UniTask.NextFrame();
+        await AwaitAppFocused();
+        await UniTask.NextFrame();
 
         var result = bridgeClass.CallStatic<bool>("requestStepsPermission");
         return result;
@@ -161,11 +165,34 @@ public class MainActivityBridge : MonoBehaviour
 #if UNITY_EDITOR
         return;
 #endif
-        
+
         bridgeClass.CallStatic("requestAllPermissions");
         await UniTask.NextFrame();
         await AwaitAppFocused();
         await UniTask.NextFrame();
+    }
+
+    public async UniTask<bool> CheckBatteryPermission()
+    {
+        if (Application.isEditor)
+        {
+            return true;
+        }
+
+        if (false == bridgeClass.CallStatic<bool>("isBatteryOptimizationEnabled"))
+        {
+            bridgeClass.CallStatic("requestDisableBatteryOptimization");
+            await AwaitAppFocused();
+            if (
+                false == bridgeClass.CallStatic<bool>("isBatteryOptimizationEnabled")
+            )
+            {
+                Debug.Log("Permission Denied battery");
+                return false;
+            }
+        }
+
+        return true;
     }
 
     public async UniTask<bool> CheckForAutoStartPermission()
@@ -203,11 +230,12 @@ public class MainActivityBridge : MonoBehaviour
         Debug.Log("Steps Count: " + stepsCount);
     }
 
-    public void StartService()
+    public async void StartService()
     {
 #if UNITY_EDITOR
         return;
 #endif
+        await Instance();
         bridgeClass.CallStatic("startService");
     }
 
@@ -227,7 +255,7 @@ public class MainActivityBridge : MonoBehaviour
         try
         {
             bridgeClass.CallStatic("requestActivityRecognitionPermission");
-            
+
             await UniTask.NextFrame();
             await AwaitAppFocused();
             await UniTask.NextFrame();
@@ -236,7 +264,6 @@ public class MainActivityBridge : MonoBehaviour
         {
             Debug.LogError("Exception while calling Android method: " + ex.Message);
         }
-        
     }
 
     public void SendActivityReference()
@@ -257,21 +284,36 @@ public class MainActivityBridge : MonoBehaviour
         }
     }
 
+    public async Task<bool> CheckAllBasicPermissions()
+    {
+        if (!HasAllPermissions())
+        {
+            await RequestAllPermissions();
+
+            return (!HasAllPermissions());
+        }
+
+        else
+        {
+            return true;
+        }
+    }
+
 
     public async Task<CheckHelthPermissionResult> CheckAllHealthPermissions()
     {
         if (!IsHealthAppAvailable())
         {
-            //useHealthAppToggle.isOn = StorageService.Instance.UseHealthApp;
+            //useHealthAppToggle.isOn = storageService.UseHealthApp;
             return new CheckHelthPermissionResult()
             {
                 success = false, error = "Health App Not Available"
             };
         }
-        
+
         if (IsHealthAppUpdateRequired())
         {
-            //useHealthAppToggle.isOn = StorageService.Instance.UseHealthApp;
+            //useHealthAppToggle.isOn = storageService.UseHealthApp;
             return new CheckHelthPermissionResult()
             {
                 success = false, error = "Health App Update Required"
@@ -281,7 +323,7 @@ public class MainActivityBridge : MonoBehaviour
         if (!HasAllPermissions())
         {
             await RequestAllPermissions();
-            
+
             if (!HasAllPermissions())
             {
                 return new CheckHelthPermissionResult()
@@ -300,6 +342,15 @@ public class MainActivityBridge : MonoBehaviour
             };
         }
 
+        result = await CheckBatteryPermission();
+        if (!result)
+        {
+            return new CheckHelthPermissionResult()
+            {
+                success = false, error = "Not enought enought Permissions (battery)"
+            };
+        }
+
         /*
         result = await RequestHealthPermissions();
         if (!result)
@@ -310,7 +361,7 @@ public class MainActivityBridge : MonoBehaviour
             };
         }
         */
-        
+
         result = await RequestHealthStepsPermissions();
         if (!result)
         {
@@ -333,6 +384,11 @@ public class MainActivityBridge : MonoBehaviour
         {
             success = true
         };
+    }
+
+    public void OnQuestSet()
+    {
+        bridgeClass.CallStatic("onQuestSet");
     }
 }
 

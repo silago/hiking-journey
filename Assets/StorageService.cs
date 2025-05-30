@@ -4,24 +4,35 @@ using UnityEngine;
 
 public class StorageService
 {
-    private static StorageService _instance;
 
-    public static StorageService Instance
+
+    public void CompleteCurrentQuest()
     {
-        get
-        {
-            _instance ??= new StorageService();
+        CurrentQuestData = null;
+        CurrentQuest = null;
+    }
+    
+    public async void SetCurrentQuest(QuestSettings questSettings)
+    {
+            if (questSettings == null)
+            {
+                CurrentQuest = null;
+                return;
+            }
+            
+            CurrentQuest = questSettings.QuestName;
+            CurrentQuestData ??= new QuestData()
+            {
+                QuestName = questSettings.QuestName
+            };
 
-            return _instance;
-        }
-
-        private set => _instance = value;
+            (await MainActivityBridge.Instance()).OnQuestSet();
     }
 
     public string CurrentQuest
     {
         get => PlayerPrefs.GetString("CurrentQuest");
-        set
+        private set
         {
             if (value == null)
             {

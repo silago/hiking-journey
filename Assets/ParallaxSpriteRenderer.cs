@@ -14,7 +14,6 @@ public class ParallaxSpriteRenderer : MonoBehaviour
     {
         lastCameraPosition = cameraTransform.position;
 
-        // Если у тебя есть конкретный размер тайла, задай его, иначе возьми из текстуры
         if (tileSize == Vector2.zero)
         {
             Sprite sprite = GetComponent<SpriteRenderer>().sprite;

@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
+    path: Assets/Scenes/Princess.unity
+    guid: e52be9662a5f11749a795e7cc0a0eb78
+  - enabled: 0
     path: Assets/Scenes/Winemaker.unity
     guid: 4bbe7e45b31275f4e8ba1c4179fd7ac9
   - enabled: 0

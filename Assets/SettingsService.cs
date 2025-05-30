@@ -1,8 +1,10 @@
 ﻿using System.Linq;
 using UnityEngine;
 
+/*
 public class SettingsService
 {
+    
     private static SettingsService _instance;
     [SerializeField] private Settings _settings;
 
@@ -24,3 +26,4 @@ public class SettingsService
     }
 
 }
+*/

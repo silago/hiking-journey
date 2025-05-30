@@ -2,26 +2,34 @@
 using System.Linq;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using Zenject;
 
 public class Startup : MonoBehaviour
 {
-    [SerializeField] private Settings settings;
-    private StorageService storage;
+    [Inject] private Settings settings;
+    [Inject]
+    private StorageService storageService;
     [SerializeField]
     private List<SceneLoaderButton> sceneLoaderButtons = new List<SceneLoaderButton>();
 
     private async void Awake()
     {
-        this.storage = StorageService.Instance;
-
-        if (!string.IsNullOrEmpty(storage.CurrentQuest))
+        if (!string.IsNullOrEmpty(storageService.CurrentQuest))
         {
-            var questSettings = settings.Quests.FirstOrDefault(x => x.questSettings.QuestName == storage.CurrentQuest);
-            var sceneName = questSettings.questSettings.Scene;
-            SceneManager.LoadScene(sceneName, LoadSceneMode.Single);
-            var bridge = await MainActivityBridge.Instance();
-            bridge.StartService();
-            //SceneManager.LoadScene(sceneName);
+            var questSettings = settings.Quests.FirstOrDefault(x => x.questSettings.QuestName == storageService.CurrentQuest);
+            if (questSettings == null)
+            {
+                storageService.SetCurrentQuest(null);
+            }
+            else
+            {
+                var sceneName = questSettings.questSettings.Scene;
+                SceneManager.LoadScene(sceneName, LoadSceneMode.Single);
+                var bridge = await MainActivityBridge.Instance();
+                bridge.StartService();
+                //SceneManager.LoadScene(sceneName);
+            }
+
         }
 
         foreach (var sceneLoaderButton in sceneLoaderButtons)
@@ -30,24 +38,28 @@ public class Startup : MonoBehaviour
         }
     }
 
-    private async void SceneLoaderButtonOnQuestButtonPressed(string questName)
+    private async void SceneLoaderButtonOnQuestButtonPressed(string questSceneName)
     {
         var mainActivityInstance = await MainActivityBridge.Instance();
         
         var permission = await mainActivityInstance.CheckForAutoStartPermission();
+        permission = permission && (await mainActivityInstance.CheckBatteryPermission());
+        permission = permission && await mainActivityInstance.CheckAllBasicPermissions();
         if (!permission)
         {
             Debug.Log("Permission Denied ");
             return;
         }
         
-        storage.CurrentQuest = questName;
-        var questData = storage.CurrentQuestData;
-        var questSettings = settings.Quests.FirstOrDefault(x => x.questSettings.QuestName == questName);
+        //storageService.CurrentQuest = questSceneName;
+        //var questData = storageService.CurrentQuestData;
+        var questSettings = settings.Quests.FirstOrDefault(x => x.questSettings.Scene == questSceneName);
         
-        storage.CurrentQuestSettingsContainer = questSettings.questSettings; 
+        storageService.SetCurrentQuest(questSettings.questSettings);
         
-        storage.CurrentQuestData ??= new QuestData() { QuestName = questName };
+        storageService.CurrentQuestSettingsContainer = questSettings.questSettings; 
+        
+        storageService.CurrentQuestData ??= new QuestData() { QuestName = questSceneName };
 
         Debug.Log($"loadScene: {questSettings?.questSettings.Scene}");
         SceneManager.LoadScene(questSettings.questSettings.Scene);
