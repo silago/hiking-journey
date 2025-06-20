@@ -44,6 +44,7 @@ public class QuestBehaviour : MonoBehaviour
     [SerializeField] private Vector3 cameraFollowOffset;
     [SerializeField] public Camera _camera;
     [Inject] private StorageService storageService;
+    [Inject] private MainActivityBridge bridge;
     [SerializeField] TilemapPathFinder tilemapPathFinder;
 
     public Camera camera
@@ -55,8 +56,6 @@ public class QuestBehaviour : MonoBehaviour
     [SerializeField] private Button completeButton;
     [SerializeField] private Animator playerAnimator;
 
-
-    private MainActivityBridge bridge;
     private bool isRunning;
     private int segments;
     private float[] tValues;
@@ -133,6 +132,7 @@ public class QuestBehaviour : MonoBehaviour
         if (questData == null)
         {
             storageService.SetCurrentQuest(settingsContainer.questSettings);
+            bridge.forceNotify();
             questData = storageService.CurrentQuestData;
         }
 
@@ -180,7 +180,6 @@ public class QuestBehaviour : MonoBehaviour
         completePanel.SetActive(false);
         completeButton.onClick.AddListener(OnCompleteButtonClick);
 
-        this.bridge = await MainActivityBridge.Instance();
         await bridge.CheckForAutoStartPermission();
         await bridge.CheckBatteryPermission();
         
@@ -189,7 +188,6 @@ public class QuestBehaviour : MonoBehaviour
     private async void OnCompleteButtonClick()
     {
         storageService.CompleteCurrentQuest();
-        var bridge = await MainActivityBridge.Instance();
         bridge.StopService();
         SceneManager.LoadScene("Main");
     }
@@ -203,6 +201,7 @@ public class QuestBehaviour : MonoBehaviour
             if (questData == null)
             {
                 storageService.SetCurrentQuest(settingsContainer.questSettings);
+                bridge.forceNotify();
             }
         }
         
@@ -289,7 +288,9 @@ public class QuestBehaviour : MonoBehaviour
 
     private void OnDialogueComplete()
     {
+        bridge.forceNotify();
         Progress();
+        
     }
 
     private DialoguePosition GetNextDialogue()

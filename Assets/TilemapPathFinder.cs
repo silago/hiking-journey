@@ -78,7 +78,7 @@ public class TilemapPathFinder : MonoBehaviour
 
             var d = MathF.Min(distance, delta);
             pos = Vector3.MoveTowards(pos, nextPoint, d);
-            if (delta > distance && delta < points.Count - 1)
+            if (delta > distance && next < points.Count - 1)
             {
                 delta -= d;
                 next++;

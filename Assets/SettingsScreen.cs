@@ -11,6 +11,7 @@ public class SettingsScreen : MonoBehaviour
     [SerializeField] private Button hundredSteps;
     [SerializeField] private TMP_Text error;
     [Inject] StorageService storageService;
+    [Inject] private MainActivityBridge main;
 
     private void Awake()
     {
@@ -22,18 +23,29 @@ public class SettingsScreen : MonoBehaviour
 
     private void OnHundredStepsClicked()
     {
-        var data =storageService.CurrentQuestData;
-        if (data != null)
+        if (storageService.CurrentQuest != null)
         {
-            data.NewSavedPositionSteps += 1000;
-            storageService.CurrentQuestData = data;
+            var data =storageService.CurrentQuestData;
+            if (data != null)
+            {
+                data.NewSavedPositionSteps += 1000;
+                storageService.CurrentQuestData = data;
+            }
+        }
+        else if (storageService.PrevCurrentQuest != null)
+        {
+            var data =storageService.GetCurrentData(storageService.PrevCurrentQuest);
+            if (data != null)
+            {
+                data.NewSavedPositionSteps += 1000;
+                storageService.SetCurrentData(storageService.PrevCurrentQuest, data);
+            }
         }
     }
 
 
     public async void OnUseHealthApp(bool useHealthApp)
     {
-        var main = await MainActivityBridge.Instance();
         var prev = storageService.UseHealthApp;
         if (useHealthApp)
         {

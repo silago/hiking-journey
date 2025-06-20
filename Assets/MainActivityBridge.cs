@@ -6,16 +6,9 @@ using UnityEngine.Android;
 using UnityEngine.InputSystem;
 using Zenject;
 
-public class MainActivityBridge : MonoBehaviour
+public class MainActivityBridge 
 {
     [Inject] StorageService storageService;
-    private static MainActivityBridge _instance;
-
-    public static async UniTask<MainActivityBridge> Instance()
-    {
-        await UniTask.WaitWhile(() => _instance == null);
-        return _instance;
-    }
 
     private int totalDeviceStepsCount = 0;
     private AndroidJavaClass unityPlayer;
@@ -27,17 +20,8 @@ public class MainActivityBridge : MonoBehaviour
     private const string PackageName = "com.nevermind.healthconnectbridge.Bridge";
     private const string UnityDefaultJavaClassName = "com.unity3d.player.UnityPlayer";
 
-    private async void Awake()
+    public MainActivityBridge()
     {
-        if (_instance != null)
-        {
-            Destroy(gameObject);
-            return;
-        }
-
-
-        DontDestroyOnLoad(this.gameObject);
-
         if (!Application.isEditor)
         {
             unityPlayer = new AndroidJavaClass("com.unity3d.player.UnityPlayer");
@@ -47,16 +31,16 @@ public class MainActivityBridge : MonoBehaviour
 
         SendActivityReference();
 
-        if (storageService.UseHealthApp)
-        {
-            var r = await CheckAllHealthPermissions();
-            if (!r.success)
-            {
-                storageService.UseHealthApp = false;
-            }
-        }
+        //if (storageService.UseHealthApp)
+        //{
+        //    var r = await CheckAllHealthPermissions();
+        //    if (!r.success)
+        //    {
+        //        storageService.UseHealthApp = false;
+        //    }
+        //}
         
-        _instance = this;
+        //_instance = this;
     }
 
     /*
@@ -235,7 +219,7 @@ public class MainActivityBridge : MonoBehaviour
 #if UNITY_EDITOR
         return;
 #endif
-        await Instance();
+        //await Instance();
         bridgeClass.CallStatic("startService");
     }
 
@@ -386,9 +370,12 @@ public class MainActivityBridge : MonoBehaviour
         };
     }
 
-    public void OnQuestSet()
+    public void forceNotify()
     {
-        bridgeClass.CallStatic("onQuestSet");
+        if (!Application.isEditor)
+        {
+            bridgeClass.CallStatic("forceNotify");
+        }
     }
 }
 

@@ -12,7 +12,7 @@ public class StorageService
         CurrentQuest = null;
     }
     
-    public async void SetCurrentQuest(QuestSettings questSettings)
+    public void SetCurrentQuest(QuestSettings questSettings)
     {
             if (questSettings == null)
             {
@@ -25,8 +25,22 @@ public class StorageService
             {
                 QuestName = questSettings.QuestName
             };
-
-            (await MainActivityBridge.Instance()).OnQuestSet();
+    }
+    
+    public string PrevCurrentQuest
+    {
+        get => PlayerPrefs.GetString("PrevCurrentQuest");
+        private set
+        {
+            if (value == null)
+            {
+                PlayerPrefs.DeleteKey("PrevCurrentQuest");
+            }
+            else
+            {
+                PlayerPrefs.SetString("PrevCurrentQuest", value);
+            }
+        }
     }
 
     public string CurrentQuest
@@ -45,6 +59,15 @@ public class StorageService
         }
     }
 
+    public QuestData GetCurrentData(string CurrentQuest)
+    {
+        return GetData<QuestData>($"CurrentQuestData_{CurrentQuest}", null);
+    }
+    public void SetCurrentData(string CurrentQuest, QuestData value)
+    {
+        SetData($"CurrentQuestData_{CurrentQuest}", (value));
+    }
+    
     public QuestData CurrentQuestData
     {
         get =>
